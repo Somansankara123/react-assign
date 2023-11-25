@@ -1,0 +1,28 @@
+1.what is EMMET?
+   ANS:Emmet is a web development tool that allows developers to write HTML and CSS code quickly and efficiently.Emmet uses abbreviations to generate code snippets.
+   These abbreviations are expanded into complete HTML or CSS structures.
+
+2.Difference between library and framework?
+   ANS:
+   library:
+   A library is a collection of pre-written code or routines that can be used by a program or application.
+   It provides specific functionalities or features that developers can use in their code.
+   Libraries are typically designed to be reusable and can be called by an application to perform specific tasks without dictating the overall structure of the application.
+   The control flow is typically inverted - the developer calls the library when needed.
+   Framework:
+   A framework is a more comprehensive and structured set of tools, code, and guidelines designed to aid in the development of an entire software application.
+   It provides a foundation or skeleton for building applications and dictates the overall structure and flow of the application.
+
+3.Why is React known as React?
+   ANS:React is a JavaScript library for building user interfaces. It was developed by Facebook, and the name “React” was chosen because it is meant to help developers build user interfaces that are fast and responsive,
+    or “reactive.” The library was designed to “react” to changes in data.
+
+4.What is the difference between React and ReactDOM
+    ANS:The react package holds the react source for components, state, props and all the code that is react.
+        The react-dom package as the name implies is the glue between React and the DOM. Often, you will only use it for one single thing: mounting your application to the index.html file with ReactDOM.render().
+5.what is the difference between react.development.js and react.production.js files via cdn?
+   ANS:In production mode, compression and minification of Javascript and other resources happens to reduce size of the code which is not the case when it comes to development mode.
+    Performance will be much faster in production mode when compared to development mode.
+ 6.What are async and defer?
+   ANS:Async allows your script to run as soon as it's loaded, without blocking other elements on the page. 
+   Defer means your script will only execute after the page has finished loading.   
